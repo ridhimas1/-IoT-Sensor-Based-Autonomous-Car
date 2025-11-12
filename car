@@ -1,0 +1,3 @@
+Tools: Arduino Uno, IR, Ultrasonic Sensors, C+
+Developed an autonomous robot car capable of real-time obstacle detection and navigation using sensor feedback.
+Implemented efficient C++ algorithms for movement control and decision-making.
